@@ -17,35 +17,31 @@
 
     <script>
 
-        var callTimer = setInterval(myFunction, 1);
-
         var background;
 
-        var fullColor = 0;
+        var scanColor = "225, 167, 0"
 
-        var halfComplete = false;
+        var callColorChanger = setInterval(colorChanger, 1);
 
-        var fullComplete = false;
+        var scanPosition = 0;
 
-        function myFunction() {
+        var scanComplete = false;
 
+        function colorChanger() {
 
-
-            if (fullColor < 98 && halfComplete === false) {
-                 fullColor = fullColor + .1;
-            } else if(fullColor < 0) {
-                 halfComplete = false;
+            if (scanPosition < 98 && scanComplete === false) {
+                 scanPosition = scanPosition + .1;
+            } else if(scanPosition < 0) {
+                 scanComplete = false;
             } else {
-                halfComplete = true;
-                 fullColor = fullColor - .1;
+                scanComplete = true;
+                 scanPosition = scanPosition - .1;
             }
 
             background = document.getElementById("overlay").style.background = "none";
 
-            background = document.getElementById("overlay").style.background = "linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)  " + (fullColor - 7) + "%, rgb(221, 182, 6, .8) " + (fullColor - 3) + "%, rgb(221, 182, 6) " + fullColor + "%, rgb(221, 182, 6) " + (fullColor + 2) + "%, rgb(221, 182, 6, .8)  " + (fullColor + 5) + "%, rgb(0, 0, 0)  " + (fullColor + 9) + "%, rgb(0, 0, 0))"
+            return background = document.getElementById("overlay").style.background = "linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)  " + (scanPosition - 5) + "%, rgb(" + scanColor + ", .8) " + (scanPosition - 2) + "%, rgb(" + scanColor + ") " + scanPosition + "%, rgb(" + scanColor + ") " + (scanPosition + 1) + "%, rgb(" + scanColor + ", .8)  " + (scanPosition + 3) + "%, rgb(0, 0, 0)  " + (scanPosition + 6) + "%, rgb(0, 0, 0))"
 
-
-            return console.log("Called: ", background)
         }
 
     </script>
