@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(#efefef, #949494);
+    min-height: 100vh;
+}
+
+.test-button {
+    border-radius: 25px;
+    width: 75px;
+    height: 75px;
+    margin: 8px;
+}
+
+img {
+    margin-bottom: 50px;
+}

@@ -1,13 +1,13 @@
 .row {
     align-items: center;
-    height: 215px;
+    height: 440px;
 }
 
 p {
     text-align: center;
     margin: 10px auto;
     font-family: cursive;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 .divider {
@@ -24,16 +24,18 @@ img {
 
 .row-title {
     font-weight: bold;
-    font-size: 28px;
+    font-size: 70px;
     font-family: cursive;
 }
 
 .number {
     font-weight: bold;
-    font-size: 40px;
+    font-size: 70px;
     font-family: cursive;
 }
 
 .util-image {
-    margin: 0 17px;
+    margin: 0 auto;
+    padding: 0px 25px;
+    width: 100%;
 }
