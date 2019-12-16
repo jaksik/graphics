@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="253mm"
+   height="120mm"
+   viewBox="0 0 253 120"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="send-4.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient903"
+       inkscape:collect="always">
+      <stop
+         id="stop899"
+         offset="0"
+         style="stop-color:#a3d9b1;stop-opacity:0.66274512" />
+      <stop
+         id="stop901"
+         offset="1"
+         style="stop-color:#a3d9b0;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient903"
+       id="linearGradient841"
+       gradientUnits="userSpaceOnUse"
+       x1="-45.49715"
+       y1="237.67842"
+       x2="177.25864"
+       y2="238.10147"
+       gradientTransform="matrix(-1.0992173,0,0,1.3240899,247.85258,-84.350262)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="255.35611"
+     inkscape:cy="120.00799"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:snap-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12412"
+       spacingx="1.8520833"
+       spacingy="1.8520833" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-177)">
+    <rect
+       style="fill:#218838;fill-opacity:1;stroke-width:0.25588509"
+       id="rect12"
+       width="247.70001"
+       height="114.15185"
+       x="3.0238037"
+       y="179.90106"
+       rx="30.325903" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a3d9b0;stroke-width:3.44655824;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12-6"
+       width="247.70001"
+       height="114.15185"
+       x="2.9170001"
+       y="179.90216"
+       rx="28.367023" />
+    <path
+       style="fill:url(#linearGradient841);fill-opacity:1;stroke:none;stroke-width:3.17704868;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200.8754,183.67038 45.30709,51.34187 -45.30709,54.55513 v -21.16453 l -162.75296,0.80181 -0.267269,-65.15294 163.020229,0.80181 z"
+       id="path7647"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:43.5094223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:1.08773553"
+       x="39.194256"
+       y="248.93263"
+       id="text1424"><tspan
+         sodipodi:role="line"
+         id="tspan1422"
+         x="39.194256"
+         y="248.93263"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.08773553">Proceed</tspan></text>
+  </g>
+</svg>
