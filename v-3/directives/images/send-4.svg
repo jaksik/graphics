@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="499.62919"
-     inkscape:cy="147.45237"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="255.35611"
+     inkscape:cy="120.00799"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,12 +110,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:43.5094223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:1.08773553"
-       x="28.610912"
+       x="39.194256"
        y="248.93263"
        id="text1424"><tspan
          sodipodi:role="line"
          id="tspan1422"
-         x="28.610912"
+         x="39.194256"
          y="248.93263"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.08773553">Proceed</tspan></text>
   </g>

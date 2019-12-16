@@ -12,28 +12,44 @@
 </head>
 
 <body>
-    <div class="container" style="max-width: 2000px; background-color:#81d4dd">
+
+    <!-- Viewed in browser at 33%  -->
+
+
+    <div class="container" style="max-width: 2000px; padding-top: 200px;">
         <div class="row mt-3">
-            <div class="col-3">
-                <p class="row-title">1. Scan Your Document(s)</p>
+            <div class="col-1">
+                <p class="row-title number">1.</p>
+            </div>
+            <div class="col-2">
+                <p class="row-title">Select an Option to Scan Your Documents</p>
             </div>
             <div class="col-9">
                 <div class="row divider">
                     <div class="col-3">
-                        <img src="./images/scan-color-8.svg" class="scan-option">
+                        <div class="scan-container">
+                            <img src="./images/scan-color-8.svg" class="scan-option">
                         <p>Color</p>
+                        </div>
                     </div>
                     <div class="col-3">
-                        <img src="./images/scan-grey-8.svg" class="scan-option">
+                        <div class="scan-container">
+                            <img src="./images/scan-grey-8.svg" class="scan-option">
+                        </div>
                         <p>Black & White</p>
+
                     </div>
                     <div class="col-3">
+                       <div class="scan-container">
                         <img src="./images/scan-bw-8.svg" class="scan-option">
                         <p>Greyscale</p>
+                       </div>
                     </div>
                     <div class="col-3">
-                        <img src="./images/settings.svg" style="width:100%; margin:0 auto; padding:5px 20px 0px;">
-                        <p>Advanced Scanning</p>
+                        <div class="scan-settings">
+                            <img src="./images/settings.svg" style="width:100%; margin:0 auto; padding:30px 55px;">
+                        </div>
+                        <p>Settings</p>
                     </div>
                 </div>
             </div>
@@ -44,43 +60,64 @@
 
 
         <div class="row">
-            <div class="col-3">
-                <p class="row-title">2. Preview</p>
+            <div class="col-1">
+                <p class="row-title number">2.</p>
+            </div>
+            <div class="col-2">
+                <p class="row-title">Preview <br/>Your<br/> Documents</p>
             </div>
             <div class="col-9">
                 <div class="row divider">
                     <div class="col">
-                        <img src="./images/utils/rotate-4.svg" class="util-image">
-                        <p>Rotate 90^</p>
+                        <div class="util-container">
+                            <img src="./images/utils/rotate-4.svg" class="util-image">
+
+                        </div>
+                        <p>Rotate 90°</p>
                     </div>
                     <div class="col">
-                        <img src="./images/utils/zoom-in-4.svg" class="util-image">
+                        <div class="util-container">
+                            <img src="./images/utils/zoom-in-4.svg" class="util-image">
+
+                        </div>
                         <p>Zoom In</p>
                     </div>
                     <div class="col">
-                        <img src="./images/utils/zoom-out-4.svg" class="util-image">
+                        <div class="util-container">
+                            <img src="./images/utils/zoom-out-4.svg" class="util-image">
+
+                        </div>
                         <p>Zoom Out</p>
                     </div>
                     <div class="col">
-                        <img src="./images/utils/undo.svg" class="util-image">
-                        <p>Undo Changes</p>
+                        <div class="util-container">
+                            <img src="./images/utils/undo.svg" class="util-image">
+
+                        </div>
+                        <p>Undo</p>
                     </div>
                     <div class="col">
-                        <img src="./images/utils/trash-4.svg" class="util-image">
-                        <p>Remove Image</p>
+                        <div class="util-container">
+                            <img src="./images/utils/trash-4.svg" class="util-image">
+
+                        </div>
+                        <p>Remove</p>
                     </div>
                 </div>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-3">
-                <p class="row-title">3. Send</p>
+            <div class="col-1">
+                <p class="row-title number">3.</p>
+            </div>
+            <div class="col-2">
+                <p class="row-title">Print or Send <br/> Your Documents</p>
             </div>
             <div class="col-9">
                 <div class="row justify-content-center">
-                    <div class="col-2">
-                        <img src="./images/utils/forward-arrow.svg" />
+                    <div class="col-4">
+                        <img src="./images/send-4.svg" class="send-image" />
                     </div>
                 </div>
             </div>
