@@ -1,0 +1,39 @@
+.row {
+    align-items: center;
+    height: 440px;
+}
+
+p {
+    text-align: center;
+    margin: 10px auto;
+    font-family: cursive;
+}
+
+.divider {
+    border-bottom: 1px solid black;
+}
+
+img {
+    margin-top: 10px;
+}
+
+.scan-option {
+    margin: 0 40px;
+    width: 100%;
+}
+
+.row-title {
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.number {
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.util-image {
+    margin: 0 auto;
+    padding: 0px 25px;
+    width: 100%;
+}
