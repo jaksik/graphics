@@ -23,11 +23,11 @@
        inkscape:collect="always"
        id="linearGradient833-1">
       <stop
-         style="stop-color:#e6dca2;stop-opacity:1"
+         style="stop-color:#e2b994;stop-opacity:1"
          offset="0"
          id="stop829" />
       <stop
-         style="stop-color:#c5af37;stop-opacity:0.16862746"
+         style="stop-color:#c53737;stop-opacity:0.16862746"
          offset="1"
          id="stop831" />
     </linearGradient>
@@ -35,12 +35,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient833-1"
        id="radialGradient832"
-       cx="175.81262"
-       cy="77.631653"
-       fx="175.81262"
-       fy="77.631653"
+       cx="111.19833"
+       cy="47.336624"
+       fx="111.19833"
+       fy="47.336624"
        r="123.85001"
-       gradientTransform="matrix(3.3529139,-0.03292519,0.02778851,2.9523699,-419.86677,-176.98342)"
+       gradientTransform="matrix(2.5673982,-1.5003716,1.4887745,2.5496687,-431.9686,41.881875)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -50,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="498.22462"
-     inkscape:cy="974.26193"
+     inkscape:zoom="0.175"
+     inkscape:cx="-1908.4738"
+     inkscape:cy="316.2453"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -64,13 +64,7 @@
      inkscape:pagecheckerboard="false"
      showguides="false"
      inkscape:snap-others="false"
-     inkscape:snap-nodes="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid918"
-       spacingx="3.96875"
-       spacingy="3.9952083" />
-  </sodipodi:namedview>
+     inkscape:snap-nodes="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -89,7 +83,7 @@
      id="layer1"
      transform="translate(0,-43)">
     <rect
-       style="fill:#e1c11b;fill-opacity:0.90588236;stroke-width:0.37693506"
+       style="fill:#e1c11b;fill-opacity:0.90588235;stroke-width:0.37693506"
        id="rect12"
        width="247.70001"
        height="247.70001"
