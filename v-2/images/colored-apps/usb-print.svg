@@ -27,7 +27,7 @@
          offset="0"
          id="stop829" />
       <stop
-         style="stop-color:#c54637;stop-opacity:0.17"
+         style="stop-color:#c59b37;stop-opacity:0.16862746"
          offset="1"
          id="stop831" />
     </linearGradient>
@@ -35,12 +35,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient833-1"
        id="radialGradient832"
-       cx="163.38799"
-       cy="160.07402"
-       fx="163.38799"
-       fy="160.07402"
+       cx="156.92148"
+       cy="125.02837"
+       fx="156.92148"
+       fy="125.02837"
        r="123.85001"
-       gradientTransform="matrix(1.1223634,-2.4784823,2.3553505,1.0674263,-284.6207,216.43051)"
+       gradientTransform="matrix(1.1223634,-2.4784823,2.3553505,1.0674263,-284.6207,215.90134)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -50,25 +50,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-1429.4539"
-     inkscape:cy="576.83707"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="500.32682"
+     inkscape:cy="615.62211"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:pagecheckerboard="false"
-     inkscape:snap-nodes="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid918"
-       spacingx="1.8520833"
-       spacingy="1.8520833" />
-  </sodipodi:namedview>
+     inkscape:snap-nodes="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -77,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,7 +94,7 @@
        width="247.70001"
        height="247.7"
        x="3.0238035"
-       y="46.351601"
+       y="45.822433"
        rx="58.458519" />
     <path
        style="opacity:1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:2.61282086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

@@ -99,7 +99,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="383.67211"
+     inkscape:cx="-86.32789"
      inkscape:cy="394.36589"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -109,7 +109,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:pagecheckerboard="false">
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid8952"
@@ -134,7 +134,7 @@
      id="layer1"
      transform="translate(0,-45)">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.77699995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f7f7f7;fill-opacity:1;stroke:#000000;stroke-width:2.77699995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12"
        width="247.70001"
        height="247.70001"
