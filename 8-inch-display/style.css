@@ -32,3 +32,10 @@ img {
     border: 1px solid #a0a0a0;
 }
 
+.scan-container {
+    width: 8in;
+    height: 8in;
+    margin: 0px auto;
+    margin-top: 50px;
+    border: 1px solid black;
+}
