@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg version="1.1" viewBox="0 0 238 238" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient840" cx="123.82" cy="172.38" r="117.15" gradientTransform="matrix(3.8203 .0032026 -.0031294 3.7329 -353.15 -465.96)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b6e9f9" offset="0"/>
+   <stop stop-color="#109bc6" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0,-59)">
+  <g>
+   <rect x="3.7592" y="62.44" width="230.79" height="230.79" rx="54.468" fill="#109bc6" fill-opacity=".99502" stroke="#11b4e6" stroke-opacity=".99608" stroke-width="6.21"/>
+   <rect x="4.0233" y="62.55" width="230.68" height="230.68" rx="54.442" fill="url(#radialGradient840)" stroke="#11b4e6" stroke-opacity=".99608" stroke-width="6.3191"/>
+   <circle cx="105.06" cy="153.98" r="54.168" fill="none" stroke="#c54536" stroke-linecap="round" stroke-opacity=".99502" stroke-width="17.692"/>
+  </g>
+  <rect transform="matrix(.0046673 .99999 -.99999 .003507 0 0)" x="148.56" y="-136.98" width="13.745" height="64.885" rx="6.8727" ry="0" fill="#c54536"/>
+  <path d="m131.35 205.99 39.945 51.861c13.92 16.042 34.764-1.382 18.81-19.461l-42.576-46.057z" fill="#c54536" stroke="#c54536" stroke-width=".63086px"/>
+ </g>
+</svg>

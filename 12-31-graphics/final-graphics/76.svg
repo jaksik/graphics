@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg version="1.1" viewBox="0 0 238 238" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient840" cx="123.82" cy="172.38" r="117.15" gradientTransform="matrix(3.8203 .0032026 -.0031294 3.7329 -353.36 -466.02)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b6e9f9" offset="0"/>
+   <stop stop-color="#109bc6" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0,-59)">
+  <rect x="3.7592" y="62.44" width="230.79" height="230.79" rx="54.468" fill="#109bc6" fill-opacity=".99502" stroke="#11b4e6" stroke-opacity=".99608" stroke-width="6.2101"/>
+  <rect x="3.8125" y="62.495" width="230.68" height="230.68" rx="54.442" fill="url(#radialGradient840)" stroke="#11b4e6" stroke-opacity=".99608" stroke-width="6.3191"/>
+  <path d="m68.887 142.52 67.194 0.0821c46.319 0.0566 60.111 18.905 60.111 42.389 0 23.483-10.103 44.404-58.816 44.696l-81.327 0.48705" fill="none" stroke="#c54536" stroke-width="19.486"/>
+  <path d="m79.681 114.09v57.174l-38.406-28.587z" fill="#c54536" stroke="#c54536" stroke-width="7.3459"/>
+ </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg version="1.1" viewBox="0 0 238 238" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <radialGradient id="radialGradient840" cx="123.82" cy="172.38" r="117.15" gradientTransform="matrix(3.8203 .0032026 -.0031294 3.7329 -353.38 -466.02)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a5e4f8" offset="0"/>
+   <stop stop-color="#109bc6" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0,-59)">
+  <rect x="3.7592" y="62.44" width="230.79" height="230.79" rx="54.468" fill="#109bc6" fill-opacity=".99502" stroke="#11b4e6" stroke-opacity=".99608" stroke-width="6.2101"/>
+  <rect x="253.33" y="7.4449" width=".75595" height=".56696" rx="6.1421" ry=".56696" fill="#0d00e4"/>
+  <rect x="3.7895" y="62.495" width="230.68" height="230.68" rx="54.442" fill="url(#radialGradient840)" stroke="#11b4e6" stroke-opacity=".99608" stroke-width="6.3191"/>
+  <g stroke="#c54536">
+   <path transform="rotate(90.395)" d="m246.83-112.92a69.919 69.919 0 0 1-70.121 69.7 69.919 69.919 0 0 1-69.718-70.103 69.919 69.919 0 0 1 70.086-69.735" fill="none" stroke-width="14.054" style="paint-order:normal"/>
+   <path d="m161.36 180.48 38.827 0.26747-19.593 25.948z" fill="#c54536" stroke-width="4.9887"/>
+   <circle transform="rotate(90.395)" cx="177.54" cy="-113.78" r="13.583" fill="#c54536" stroke-width="7.8005" style="paint-order:normal"/>
+  </g>
+ </g>
+</svg>
